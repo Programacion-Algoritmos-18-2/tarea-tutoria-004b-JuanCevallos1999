@@ -1,3 +1,16 @@
-# tarea-tutoria-04b
+# tarea-tutoria-004a
 
-## Generar clases Persona, Estudiante en una paquete 
+- crear una clase Materia, con atributos
+	código
+	nombre
+	
+y además de los set y get crear un método
+presentar_datos()
+
+- crear una clase MateriaPresencial subclase de 
+Materia con el atributo 
+
+num_creditos
+
+y además de los set y get crear un método
+presentar_datos()
